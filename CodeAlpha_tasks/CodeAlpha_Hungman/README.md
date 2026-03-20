@@ -1,23 +1,23 @@
-Chatbot
+Hangman Game
 
-This is a simple rule-based chatbot built using Python. It interacts with users using predefined responses.
+A simple text-based Hangman game where the player guesses a hidden word letter by letter.
 
 Features
 
-* Responds to greetings like "hello"
-* Answers basic questions
-* Simple and interactive
+* Random word selection
+* Limited number of attempts
+* Displays progress after each guess
 
 Concepts Used
 
-* if-elif statements
+* random module
 * loops
-* functions
+* strings and lists
 
- How to Run
- 
-python chatbot.py
+How to Run
 
-📌 About
+python hangman.py
+
+About
 
 This project was built as part of my CodeAlpha Python Internship.
